@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConnorH011
 - 👀 I’m interested in learning new technologies to progress my career forward.
-- I have recently graduated from Swansea University with a first degree honours in computer science. 
-- 🌱 I’m currently learning about cloud engineering, currently AWS. Completed my AWS Cloud Practitioner and working towards my Cloud Solutions Architech Associate
+- 💼 Worked with Cloud consultancies and product companies developing and improving Infrastructure as code, pipelines and further improving DevOps capabilities
+- ☁️ Certified in both AWS and Azure, BCS Agile, BCS DevOps, Terraform, and Datadog
 - 📫 How to reach me connor.w.humphries@gmail.com
 
 <!---
